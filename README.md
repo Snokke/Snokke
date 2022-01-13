@@ -1,7 +1,7 @@
 ### Hi there, I`m Andrei 👋
 
-- 🔭 I’m currently working on some cool games on Phaser 3
-- 🌱 I’m currently learning Three.js
+- 🔭 I’m currently working on some cool games on **Phaser 3**
+- 🌱 I’m currently learning **Three.js**: [My Three.js template](https://github.com/Snokke/threejs-game-template)
 
 ### Connect with me:
 [<img align="left" alt="Snokke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/SnakeMGL)
