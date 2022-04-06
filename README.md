@@ -1,4 +1,4 @@
-### Hi there, I`m Andrei 👋
+### Hi there, I`m Andrii 👋
 
 - 🔭 I’m currently working on some cool games on **Phaser 3**
 - 🌱 I’m currently learning **Three.js**: [My Three.js template](https://github.com/Snokke/threejs-game-template)
