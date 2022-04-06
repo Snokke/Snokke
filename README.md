@@ -1,6 +1,6 @@
 ### Hi there, I`m Andrii 👋
 
-- 🔭 I’m currently working on some cool games on **Phaser 3**
+- 🔭 I’m currently working on some cool games on **Three.js**, **Phaser 2**, **Phaser 3**
 - 🌱 I’m currently learning **Three.js**: [My Three.js template](https://github.com/Snokke/threejs-game-template)
 
 ### Connect with me:
