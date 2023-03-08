@@ -5,7 +5,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Snokke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/SnakeMGL)
-[<img align="left" alt="Snokke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/andreibabintsev/)
+[<img align="left" alt="Snokke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/andriibabintsev/)
 <br />
 
 <!--
