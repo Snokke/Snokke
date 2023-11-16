@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on some cool games on **Three.js** and **Phaser**
 - ⭐ My portfolio: **[My Interactive Workplace](https://www.andriibabintsev.com)**
 - 📺 Video of games and playable ads that I made: **[Games showreel 2020-2022](https://www.youtube.com/watch?v=HmZ_MUd3zJY)**
-- 🏆 Two-time winner of **«Three.js Journey Challenge»** with projects: **[Interactive Game Boy](https://gameboy.andriibabintsev.com/)** and **[Crazy Pumpkin](https://crazy-pumpkin.andriibabintsev.com/)**
+- 🏆 Two-time winner of **«Three.js Journey Challenge»** with projects:
+  - **[Interactive Game Boy](https://gameboy.andriibabintsev.com/)**
+  - **[Crazy Pumpkin](https://crazy-pumpkin.andriibabintsev.com/)**
 
 
 ### Connect with me:
